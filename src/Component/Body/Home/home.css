@@ -1,0 +1,109 @@
+.Home{
+margin-top: -1rem;
+background: rgba(0,0,0, .5) url('./img/back4.jpg');
+max-width: 100%;
+max-height:auto;
+height: 630px;
+background-size:cover ;
+background-blend-mode: darken;
+}
+.homeall{
+    padding: 6rem;
+    margin: 0rem 3rem;
+    color: white;
+  
+}
+.head{
+   font-size: 38px;
+   font-weight: 600;
+   color: rgb(247, 91, 34);
+}
+.head1{
+    color: white;
+}
+.peratxt{
+    font-size: 14px;
+    font-weight: 500;
+}
+.info{
+    display: flex;
+    margin: 2rem 0rem;
+}
+.headbtn{
+  
+    text-align: center;
+}
+.homebtn{
+    
+    color: white;
+    text-decoration: none;
+    padding: 8px 18px;
+    background-color: rgb(247, 91, 34) ;
+    text-align: center;
+}
+.arrow{
+    margin: 0 5px;
+      width: 20px;
+      height: 7px;
+      justify-content: center;
+}
+.allinfo{
+    margin-top: -5px;
+    padding: 0  3rem;
+    display: flex;
+}
+.call{
+    width: 40px;
+    height: 40px;
+    margin: 0 9px;
+}
+.calltxt{
+    margin-top: 0rem;
+    font-size: 11px;
+    font-style: italic;
+    font-weight: 400;
+}
+.bold{
+    font-style: normal;
+    font-size: 18px;
+}
+
+
+.books{
+ text-align: right;
+ margin-top: -4rem;
+}
+
+.book{
+    width: 140px;
+    height: 220px;
+    transform: rotate(-20deg);
+}
+.book1{
+    transform: rotate(0deg);
+    width: 140px;
+    height: 220px;
+
+}
+.offer{
+    margin: -2rem;
+   display:flex;
+   justify-content: right;
+
+}
+.cercle{
+   
+    background-color:rgb(247, 91, 34) ;
+    height: 70px;
+    width: 140px;
+    margin-top: 0;
+  
+}
+.certxt{
+    margin-top: 2px;
+    text-align: left;
+    padding: 0px 2px;
+    font-size: 14px;
+    font-weight: 500;
+ 
+}

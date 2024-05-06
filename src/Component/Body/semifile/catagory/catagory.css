@@ -1,0 +1,59 @@
+.catagorys{
+    padding: 5px 50px;
+
+   
+}
+.option{
+    display:grid;
+    margin: 10px auto;
+    
+
+}
+.cetegori{
+
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    margin: 1rem auto;
+    font-weight: 400;
+   
+    background-color: rgb(50, 64, 76);
+    padding: 2px 30px;
+    /* border: .3px solid black; */
+
+}
+.cetaoption{
+  
+    margin: 8px auto;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 400;
+    color: rgb(76, 76, 76);
+}
+.arrimg{
+    width: 19px;
+    height: 15px;
+}
+.cataline{
+    padding: .2px 9px;
+    background-color: rgb(78, 77, 77);
+}
+
+.dropdown-menu{
+    margin: 15px auto;
+}
+.cetaoptions{
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: 400;
+    color: rgb(76, 76, 76);
+}
+
+.cetaoptions:hover{
+    color: white;
+}
+.cetaoption:hover{
+    color: aliceblue;
+    transition: 1s ;
+
+}

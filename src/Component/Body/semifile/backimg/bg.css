@@ -1,0 +1,23 @@
+.semibg{
+  background: rgba(16, 16, 16, 0.9) url('./img/semi.jpg');
+  margin-top: -1rem;
+  max-width: 100%;
+  height:auto;
+  height: 350px;
+  background-size:cover ;
+  background-blend-mode: darken;
+
+}
+
+.seminfos{
+    padding: 7rem 2rem;
+    display: flex;
+    justify-content: left;
+    color: rgb(212, 212, 212);
+    font-size: 2rem
+    
+}
+.find{
+
+
+}

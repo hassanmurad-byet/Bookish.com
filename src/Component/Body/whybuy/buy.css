@@ -1,0 +1,156 @@
+.Buy{
+margin: 5rem 0rem;
+}
+.why{
+    text-align: center;
+    color: #e9620f;
+    font-size: 45px;
+   
+}
+.buyimg{
+    display: flex;
+    justify-content: center;
+    margin: 3rem 8rem ;
+
+}
+.imgs{
+    /* color: #eb6d1e; */
+    width: 87px;
+    height: 85px;
+
+ 
+ 
+
+}
+.alltxt{
+  text-align: center;
+
+}
+.headtxt{
+    color: #e9620f;
+    font-size: 20px;
+}
+.des{
+    font-size: 13px;
+    font-weight: 300;
+}
+.readinfo{
+    display: flex;
+}
+.lovered{
+    margin: 2rem 6rem;
+}
+.our{
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.Forthe{
+    font-size: 37px;
+}
+.txtboxs{
+    font-size: 14px;
+    font-weight: 300;
+}
+.read{
+
+text-align: right;
+margin: 0rem 4rem;
+background-size: cover;
+position: relative;
+
+}
+
+
+.reimg{
+    margin-right: -0rem;
+}
+.readimg{
+    margin-top: 4rem;
+    width: 600px;
+    height:440px;
+    position: relative;
+    
+}
+.reaimg{
+    margin-top: -28rem;
+}
+.rea{
+    position: relative;
+    width: 600px;
+    height:445px;
+    mix-blend-mode: screen;
+}
+
+
+.sellbook{
+    display: flex;
+    margin: 3rem 3rem;
+    background-size: cover;
+    background-color:rgb(46, 46, 46);
+  
+
+}
+.sellimg{
+    width: 345px;
+    max-width: 100%;
+    height: auto;
+   
+}
+.sell{
+    display: flex;
+    margin: 0 2rem ;
+}
+.sellinfo{
+    margin: 4rem 0rem;
+    font-size: 25px;
+    color: white;
+
+
+}
+.sellyor{
+    margin: 4rem 11rem;
+}
+.simple{
+    color: white;
+    font-size: 13px;
+}
+.satrt{
+    text-decoration: none;
+    color: white;
+    padding: 8px 9px;
+    background-color: #e9620f;
+
+}
+        
+.let{
+    margin:  4rem 2rem;
+    text-align: center;
+
+}
+.dont{
+    font-size: 43px;
+    color: #e9620f;
+
+}
+.flytxt{
+    font-size: 12px;
+    font-weight: 300;
+}
+.ors{
+    justify-content: center;
+    margin: 3rem 0rem;
+    display: flex;
+}
+.buybtn{
+    
+ margin: 1rem;
+ text-decoration: none;
+ color: white;
+ padding: 10px 14px;
+
+ background-color: #e9620f;
+}
+.or{
+padding: 10px 14px;
+}

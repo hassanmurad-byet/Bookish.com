@@ -1,0 +1,164 @@
+.rare{
+    background-color: #f1f6f8;
+    /* margin-top: 0rem; */
+   
+    
+}
+/* .rare svg{
+    display:block;
+} */
+.shows{
+    margin: 0 2rem;
+    padding: 1rem 0;
+
+
+  
+ 
+
+}
+
+.showbook {
+    /* display:contents; */
+
+
+}
+
+.infobook {
+    margin: 0px 4rem;
+}
+
+.newtxt {
+    font-size: 14px;
+    font-weight: 300;
+
+}
+
+.spanr {
+    font-size: 19px;
+    color: rgb(65, 65, 65);
+    font-weight: 500;
+
+}
+
+.searchbtn {
+    display: flex;
+    justify-content: right;
+    margin: 0 4rem;
+    margin-top: -2rem;
+
+}
+
+.searchbook {
+    margin: 0 3rem;
+    font-size: 10px;
+    text-decoration: none;
+    color: rgb(103, 102, 102);
+    border-radius: 4rem;
+    padding: 3px 11px;
+    background-color: rgb(233, 242, 247);
+
+}
+
+.arrowbtn {
+
+    display: flex;
+    justify-content: right;
+
+}
+
+.arr {
+
+    background-color: rgb(247, 91, 34);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    margin: 0 3px;
+
+}
+
+.arrimgs {
+
+    justify-content: center;
+    width: 18px;
+    height: 12px;
+
+}
+
+.line {
+    padding: .4px 25px;
+    background-color: rgb(162, 162, 162);
+    margin: 8px 4rem;
+}
+
+
+
+
+
+
+.booksimgs {
+    display: flex;
+    margin: 30px 30px;
+    /* background-color: antiquewhite; */
+  
+}
+
+.semibok {
+    margin: 0 30px;
+   
+}
+
+.seminewbook {
+
+    width: 200px;
+    height: 285px;
+}
+.catagory{
+    font-size: 13px;
+    font-weight: 300;
+}
+.bookline{
+    padding: .2px 10px;
+    background-color: rgb(160, 160, 160);
+}
+.name{
+    margin-top:5px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.writer{
+    font-size: 12px;
+    font-weight: 300;
+}
+.price{
+   
+    color: rgb(247, 91, 34) ;
+    font-size: 15px;
+}
+.cart{
+    text-decoration: none;
+    background-color: rgb(247, 91, 34) ;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+ 
+
+}
+.cartimg{
+    margin: -3px 4px;
+    width: 19px;
+    height: 20px;
+
+}
+.wish{
+    display: flex;
+    margin: 9px auto;
+    text-decoration: none;
+    color: rgb(103, 102, 102);
+    font-weight: 400;
+    font-size: 12px;
+  
+  
+  
+
+}

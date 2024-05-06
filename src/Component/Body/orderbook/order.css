@@ -1,0 +1,53 @@
+.orderbook {
+    background: rgba(0, 0, 0, .3) url('./img/back5.jpg');
+    height: 550px;
+    max-width: 100%;
+    background-size: cover;
+    background-blend-mode: darken;
+    margin-top: -2rem;
+
+}
+.orderbook svg {
+    display: block;
+
+}
+
+.rodernow {
+    justify-content: center;
+
+     display: flex;
+      color: aliceblue;
+}
+.place{
+    margin:2rem 6rem;
+}
+.find{
+
+    font-size: 14px;
+    margin-top: -1.3rem;
+   
+}
+.orderhere{
+    font-size: 44px;
+    margin-top: -.5rem;
+    
+}
+.placeord{
+  
+    border: 2px solid  rgb(247, 91, 34);
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding: 5px 30px;
+}
+.placeord:hover{
+    background-color: rgb(247, 91, 34);
+}
+.pls{
+    height: 13px;
+    width: 19px;
+}
+.nodepo{
+    font-size: 12px;
+    text-align: center;
+}

@@ -1,0 +1,115 @@
+.allsearchs{
+    margin: auto 2rem;
+    display:flex;
+    /* border: 2px solid rebeccapurple; */
+}
+.mysearsh{
+    margin: 1rem 1rem;
+}
+.bookinput{
+    justify-content: left;
+    display: flex;
+    margin: auto;
+    width: 120px;
+    height: 22px;
+    padding: 0rem 30px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(189, 189, 189, 0.876);
+}
+.inputimgs{
+   
+    width:20px;
+    height: 20px;
+}
+.searchs{
+
+    background-color: #3a3939;
+}
+
+.bookinput input {
+   
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: rgb(77, 76, 76);
+    font-size: 13px;
+
+}
+.right{
+    display: flex;
+    justify-content: flex-end;
+}
+.share{
+    margin:auto 20px;
+    display: flex;
+    justify-content: right;
+
+}
+.page{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(74, 74, 74);
+}
+.sorts{
+    /* height: 3rem;
+    width: 5rem; */
+    display:flex;
+    justify-content:flex-end;
+    /* border: 1px solid red; */
+    margin-top: -3.5rem; 
+    margin-right: 3rem;
+  
+    color: rgb(83, 83, 83);  
+    font-size: 12px;
+
+}
+.namm{
+    margin: auto 1rem;
+    padding: 1px 6px;
+    /* border: .8px solid black; */
+    
+   
+}
+.stors{
+ 
+    padding: 1px 2px;
+    border: .8px solid black;
+   
+}
+
+.input-dropdown-container {
+    position: relative;
+  }
+  
+  .input-field {
+    width: 100px;
+    padding: 1px;
+    color: #3a3939;
+    background-color: #999696;
+  }
+  
+  .dropdown-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    border: 1px solid #ccc;
+    background-color: #eeecec;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-height: 150px;
+    overflow-y: auto;
+  }
+  
+  .dropdown-list li {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .dropdown-list li:hover {
+    background-color: #f6f5f5;
+  }
+  
